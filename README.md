@@ -1,12 +1,12 @@
 # Privacy Policy
 
-_Last Updated: Mar 11th, 2024_
+_Last Updated: Jan 29th, 2025_
 
 Welcome to the Soundboard App developed by Tibik ("we," "us," "our", "me"). We are committed to protecting your privacy and ensuring you have a positive experience while using our app. This Privacy Policy explains how we handle your information in our Soundboard App, available on the Google Play Store. As our app is designed to entertain without compromising your privacy, please take a moment to understand our practices.
 
 **1. Information We Collect**
 
-Currently, the Soundboard App does not collect, store, or transmit any personal or non-personal information. The app is designed to operate entirely offline, ensuring that your experience is private and secure.
+The Soundboard App does not collect, store, or transmit any personal or non-personal information. The app requires internet access to download sound assets on demand, which keeps the initial app size small and allows us to deliver new content without requiring full app updates. No data is ever uploaded from your device.
 
 **2. How We Use Information**
 
@@ -18,11 +18,11 @@ We do not have any information to share or disclose to third parties as the app 
 
 **4. Data Security**
 
-Given that our app operates offline and does not collect data, there are no data security risks associated with your use of the Soundboard App. We are committed to ensuring your peace of mind while you enjoy our app.
+The app's design ensures your privacy by never collecting or transmitting personal data. Internet access is used exclusively for downloading new content.
 
 **5. Changes to This Privacy Policy**
 
-We may update this Privacy Policy in the future, particularly as we plan to integrate analytics features to improve our app's services. Such updates will reflect our commitment to maintaining privacy standards and will be communicated through our app and on the Google Play Store page. Please review our Privacy Policy periodically for any changes.
+We may update this Privacy Policy in the future, particularly as we plan to integrate analytics features to improve our app's services. Such updates will be communicated through our app and on the Google Play Store page. Please review our Privacy Policy periodically for any changes.
 
 **6. Your Consent**
 
@@ -36,5 +36,4 @@ Thank you for choosing the Soundboard App by Tibik. Enjoy a private, secure, and
 
 Sergej Boger  
 tibikadm (at) gmail.com  
-Germany  
-
+Germany
